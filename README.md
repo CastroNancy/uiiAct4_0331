@@ -28,5 +28,7 @@ https://github.com/nava128/Nava_flutter_basico
  https://github.com/Compilacion-movil/flutter/tree/master/ejemplo_drawer_menu
 ## Capturas
 ![image](https://github.com/CastroNancy/uiiAct4_0331/assets/143777514/65c375e0-79e9-4874-92dc-412f99edfeee)
+![image](https://github.com/CastroNancy/uiiAct4_0331/assets/143777514/70d7ecc5-ec93-41da-bef6-3c62d4d32ea7)
+
 
 
